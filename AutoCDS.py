@@ -1,8 +1,6 @@
-from webbrowser import Chrome
 from PIL import Image
 import pyautogui
 
-import pytesseract
 
 pyautogui.hotkey("win")
 pyautogui.sleep(2)
