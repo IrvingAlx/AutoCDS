@@ -1,3 +1,5 @@
+from tkinter.filedialog import SaveAs
+from webbrowser import Chrome
 from PIL import Image
 import pyautogui
 
